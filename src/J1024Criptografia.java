@@ -40,13 +40,13 @@ public class J1024Criptografia {
 			input[iRe] = sc.nextLine();
 		}
 
-		for (int iPr = 0; iPr < n; iPr++) {
+		for (int iPrWr = 0; iPrWr < n; iPrWr++) {
 
 			// Primeira passagem
 			StringBuilder txtPri = new StringBuilder();
-			for (int i = 0; i < input[iPr].length(); i++) {
+			for (int i = 0; i < input[iPrWr].length(); i++) {
 				int aux = 0;
-				char c = input[iPr].charAt(i);
+				char c = input[iPrWr].charAt(i);
 				if (Character.isLetter(c)) {
 					aux = (int) c + 3;
 					txtPri.append((char) aux);
