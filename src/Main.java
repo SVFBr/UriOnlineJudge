@@ -20,7 +20,7 @@ public class Main {
 	 * o Sr. Miranda quer saber o valor numérico representado no contrato, ou
 	 * seja, nessa mesma máquina, o número 5000 corresponde ao valor numérico 0,
 	 * e não 000 (como ele de fato aparece impresso).
-	 * .
+	 * ..
 	 */
 
 	public static void main(String[] args) {
