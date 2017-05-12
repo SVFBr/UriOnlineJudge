@@ -27,6 +27,7 @@ public class J1024Criptografia {
 	 * Exemplo  de Entrada : 4 Texto #3 abcABC1 vxpdylY .ph vv.xwfxo.fd 
 	 * Exemplo de Saída : 3# rvzgV 1FECedc ks. \n{frzx gi.r{hyz-xx
 	 * 
+	 * by SVFBr  
 	 */
 	
 	public static void main(String[] args) {
